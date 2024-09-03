@@ -3,5 +3,10 @@
     "version": "0.0.1",
     "description": "example for socket.io",
     "type": "module",
-    "dependencies": {}
+    "dependencies": {
+        "express": "^4.19.2"
+    },
+    "scripts": {
+        "run": "node index.js"
+    }
 }
