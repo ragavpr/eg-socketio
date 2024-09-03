@@ -1,0 +1,7 @@
+{
+    "name": "socketio-example",
+    "version": "0.0.1",
+    "description": "example for socket.io",
+    "type": "module",
+    "dependencies": {}
+}
